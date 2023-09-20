@@ -1,0 +1,40 @@
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\bin\Debug\Sari-Sari Store.exe.config
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\bin\Debug\Sari-Sari Store.exe
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\bin\Debug\Sari-Sari Store.pdb
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\bin\Debug\Sari-Sari Store.xml
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.AssemblyReference.cache
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.SuggestedBindingRedirects.cache
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.Resources.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.GenerateResource.cache
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.CoreCompileInputs.cache
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.exe
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.xml
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari-Sari Store.pdb
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.loginForm.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.menuForm.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.posForm.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.productsForm.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.productSelection.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.creditsForm.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.transactionsForm.resources
+D:\Files\School docs\InfoMan\System\Sari-Sari Store\obj\Debug\Sari_Sari_Store.reportsForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\bin\Debug\Sari-Sari Store.exe.config
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\bin\Debug\Sari-Sari Store.exe
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\bin\Debug\Sari-Sari Store.pdb
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\bin\Debug\Sari-Sari Store.xml
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.AssemblyReference.cache
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.SuggestedBindingRedirects.cache
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.creditsForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.posForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.loginForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.menuForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.Resources.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.productSelection.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.productsForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.reportsForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari_Sari_Store.transactionsForm.resources
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.GenerateResource.cache
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.vbproj.CoreCompileInputs.cache
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.exe
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.xml
+D:\Files\School docs\InfoMan\Main\Sari-Sari Store\obj\Debug\Sari-Sari Store.pdb
